@@ -7,3 +7,8 @@ Automate DNS enumeration.
 dependencies
   ->sublist3r
   ->httprobe
+
+To run
+  ->cd enum_it
+  ->chmod +x enum_it
+  ->./enum_it
