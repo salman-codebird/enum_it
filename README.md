@@ -4,3 +4,6 @@ Automate DNS enumeration.
   ->find all subdomains [using sublist3r]
   ->find all alive sub domains
   ->change domain names and keep repeating
+dependencies
+  ->sublist3r
+  ->httprobe
