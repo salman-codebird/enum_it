@@ -24,7 +24,7 @@ greeting()
 {
 echo -e "\nWelcome $USER! Today is $day. \nYou are using $SHELL shell for shell scripting."
 }
-#thanku
+#thankyou
 thanku()
 {
 echo -e "\n-------------------------------------THANK YOU!!!-------------------------------------"
