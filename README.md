@@ -7,11 +7,11 @@ Automate DNS enumeration
   ->find all alive sub domains
   ->change domain names and keep repeating
 
-Dependencies
+Make sure that you installed following:
   ->sublist3r
   ->httprobe
 
 To run
-  ->cd enum_it
-  ->chmod +x enum_it
-  ->./enum_it
+  #cd enum_it
+  #chmod +x enum_it
+  #./enum_it
